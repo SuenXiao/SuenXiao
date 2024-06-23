@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Suenxiao
-- 👀 I’m interested in solidity
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on other friends with learnning
-
+23/6/2024  Today is my frist day to learn programming or solidity,and i'm a cyrpto lover. this only my own daily diary with record my growing.
+🍉🍉🍉
 
 <!---
 SuenXiao/SuenXiao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
